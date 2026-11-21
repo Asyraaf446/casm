@@ -1,0 +1,6 @@
+CASM - sample class notes
+=========================
+
+This is a placeholder file that comes with the demo data so you can test the
+download button. Lecturers can upload real notes (PDF, Word, PowerPoint, ZIP ...)
+from their class page.

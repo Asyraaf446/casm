@@ -1,0 +1,5 @@
+CASM - sample student submission
+================================
+
+Placeholder file for the demo submissions. Real submissions are stored here
+with random file names when students upload their homework.
